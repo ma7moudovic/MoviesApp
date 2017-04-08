@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Movies App</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="api_key" templateMergeStrategy="preserve" translatable="false">
+        38db4ee0b3b9fe63c95b9c835b73021f
+    </string>
+    <string name="title_activity_details">Movie Details</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_detailed">DetailedActivity</string>
+    <string name="action_favorite">Favorite</string>
+    <string name="action_share">Share</string>
+    <string name="details">Details</string>
+    <string name="release_date">Released</string>
+    <string name="rating">Rating</string>
+    <string name="trailers">Trailers</string>
+    <string name="reviews">Reviews</string>
+</resources>
